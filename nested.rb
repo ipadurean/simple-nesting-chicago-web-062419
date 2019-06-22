@@ -16,9 +16,9 @@ def hopper
         }
      }
 
-
-end
 hopper[0][0]
+end
+
 
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
